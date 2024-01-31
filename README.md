@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://tangylemon.com/author"><img src="https://img.shields.io/badge/%20-Portfolio:_Ryan_Joy-white?color=white&labelColor=06caff&logo=googleearth&logoColor=ffffff" /></a>
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/ryanjoy0000/"><img src="https://img.shields.io/badge/%20-Ryan_Joy-white?color=white&labelColor=06caff&logo=linkedin&logoColor=ffffff" /></a>
 </p>
