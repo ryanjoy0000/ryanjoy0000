@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **ryanjoy0000/ryanjoy0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...:
 -->
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=24&duration=4500&color=06CAFF&center=true&width=550&lines=Hi!+I+am+Ryan...;Hope+you+are+having+an+awesome+day!;I+enjoy+creating+digital+solutions.;I+am+primarily+a+Go+developer;I+also+like+coding+with;Typescript,+Angular,+NodeJS;I+enjoy+gaming+on+the+PS5;and+the+Nintendo+Switch!(Mario+Fan!);I+can+fork+a+repo;and+operate+a+forklift+too!;);" alt="Ryan"></a>
+</div>
+<p align="center">
+    <img src="https://github.com/ryanjoy0000/tangy-lemon/blob/main/front-end/tangy-lemon-web/src/assets/img/avatar.png" alt="avatar" />
+</p>
