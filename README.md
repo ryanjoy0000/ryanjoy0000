@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ryanjoy0000/"><img src="https://img.shields.io/badge/%20-Ryan_Joy-white?color=white&labelColor=06caff&logo=linkedin&logoColor=ffffff" /></a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanjoy0000&label=Profile%20views&color=0e75b6&style=flat" alt="ryanjoy0000" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanjoy0000&show_icons=true&locale=en&layout=compact" alt="ryanjoy0000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanjoy0000&show_icons=true&locale=en" alt="ryanjoy0000" /></p>
