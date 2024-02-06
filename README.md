@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanjoy0000&show_icons=true&locale=en" alt="ryanjoy0000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanjoy0000&" alt="ryanjoy0000" /></p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanjoy0000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2CC4F032%2CEBEBEB&hide_total_contributions=true)](https://git.io/streak-stats)
