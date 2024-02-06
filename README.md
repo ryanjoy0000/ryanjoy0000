@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/ryanjoy0000/"><img src="https://img.shields.io/badge/%20-Ryan_Joy-white?color=white&labelColor=06caff&logo=linkedin&logoColor=ffffff" /></a>
 </p>
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanjoy0000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2CC4F032%2CEBEBEB&hide_total_contributions=true)](https://git.io/streak-stats)
