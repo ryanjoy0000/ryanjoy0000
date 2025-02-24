@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=24&duration=4500&color=06CAFF&center=true&width=550&lines=Hi!+I+am+Ryan...;Hope+you+are+having+a+great+day!;I+enjoy+creating+digital+solutions.;I+like+coding+with;Golang,+Typescript/Angular,+NodeJS;I+can+create+a+DOM+element!+wink*;I+can+write+a+css+style;I+can+write+an+api;I+can+write+a+SQL+statement;I+can+create+a+microservice;I+can+create+a+docker+container;I+know+a+thing+or+two+about...;+cloud+services+:+AWS,+GCP,+Azure;I+enjoy+gaming+on+the+PS5;and+the+Nintendo+Switch!(Mario+Fan!);I+can+fork+a+repo+and...;+operate+a+forklift+too!;" alt="Ryan"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=24&duration=4500&color=06CAFF&center=true&width=550&lines=Hi!+I+am+Ryan...;Hope+you+are+having+a+great+day!;I+enjoy+creating+digital+solutions.;I+like+coding+in;Go/Golang,+Typescript/Angular,+NodeJS;I+can+create+a+DOM+element!+*wink*;I+can+write+a+css+style;I+can+write+an+api;I+can+write+a+SQL+statement;I+can+create+a+microservice;I+can+create+a+docker+container;I+know+a+thing+or+two+about...;+cloud+services+:+AWS,+GCP,+Azure;I+enjoy+gaming+on+the+PS5;and+the+Nintendo+Switch!(Mario+Fan!);I+can+fork+a+repo+and...;+operate+a+forklift+too!;" alt="Ryan"></a>
 </div>
 <p align="center">
     <img src="https://github.com/ryanjoy0000/tangy-lemon/blob/main/front-end/tangy-lemon-web/src/assets/img/avatar.png" alt="avatar" />
